@@ -1,0 +1,1601 @@
+category,suggested name,source x,source y,width,height
+shields,round shield,0,0,8,8
+shields,acute shield,8,0,8,8
+shields,rectangular shield,16,0,8,8
+shields,studded shield,24,0,8,8
+shields,halfround shield,32,0,8,8
+headgear,leather cap,40,0,8,8
+headgear,chain hood,48,0,8,8
+headgear,pot helmet,56,0,8,8
+headgear,barbute,64,0,8,8
+headgear,cotton hood,72,0,8,8
+headgear,kettle hat,80,0,8,8
+headgear,winged hood,88,0,8,8
+headgear,tiara,96,0,8,8
+headgear,crown,104,0,8,8
+headgear,pointy hat,112,0,8,8
+chestgear,leather jerkin,120,0,8,8
+chestgear,chain shirt,128,0,8,8
+chestgear,plate harness,136,0,8,8
+chestgear,ringed leather shirt,144,0,8,8
+chestgear,cotton robe,152,0,8,8
+belts,rope belt,160,0,8,8
+belts,leather belt,168,0,8,8
+belts,fancy belt,176,0,8,8
+belts,skull belt,184,0,8,8
+belts,champion belt,192,0,8,8
+leggear,lether pants,200,0,8,8
+leggear,chain pants,208,0,8,8
+leggear,platelegs,216,0,8,8
+leggear,ringed leather pants,224,0,8,8
+leggear,cotton pants,232,0,8,8
+footgear,leather boots,240,0,8,8
+footgear,chain boots,248,0,8,8
+footgear,sabatons,256,0,8,8
+footgear,ringed leather boots,264,0,8,8
+footgear,leather shoes,272,0,8,8
+rings,ring a,280,0,8,8
+rings,ring b,288,0,8,8
+rings,ring c,296,0,8,8
+rings,ring d,304,0,8,8
+rings,ring e,312,0,8,8
+amulets,cross necklace,0,8,8,8
+amulets,pearl necklace,8,8,8,8
+amulets,gem necklace,16,8,8,8
+amulets,skull necklace,24,8,8,8
+amulets,trollfang necklace,32,8,8,8
+fist weapons,push dagger,40,8,8,8
+fist weapons,katar,48,8,8,8
+fist weapons,brass knuckles,56,8,8,8
+fist weapons,tiger claw,64,8,8,8
+fist weapons,crescent knife,72,8,8,8
+clubs,small cudgel,80,8,8,8
+clubs,wooden plank,88,8,8,8
+clubs,wooden club,96,8,8,8
+clubs,wooden flail,104,8,8,8
+clubs,spiked club,112,8,8,8
+hammers,small hammer,120,8,8,8
+hammers,mace,128,8,8,8
+hammers,two handed hammer,136,8,8,8
+hammers,war hammer,144,8,8,8
+hammers,huge hammer,152,8,8,8
+flexibles,whip,160,8,8,8
+flexibles,knotted three tails,168,8,8,8
+flexibles,iron chain,176,8,8,8
+flexibles,ball and chain,184,8,8,8
+flexibles,spiked iron flail,192,8,8,8
+swords,short sword,200,8,8,8
+swords,long sword,208,8,8,8
+swords,curved sword,216,8,8,8
+swords,cuirassier epee,224,8,8,8
+swords,saber,232,8,8,8
+axes,hand axe,240,8,8,8
+axes,double broad axe,248,8,8,8
+axes,battle axe,256,8,8,8
+axes,viking axe,264,8,8,8
+axes,large axe,272,8,8,8
+polearms,oar,280,8,8,8
+polearms,quarterstaff,288,8,8,8
+polearms,pike,296,8,8,8
+polearms,bill,304,8,8,8
+polearms,bi-pike,312,8,8,8
+ranged,sling,0,16,8,8
+ranged,short bow,8,16,8,8
+ranged,long bow,16,16,8,8
+ranged,curved bow,24,16,8,8
+ranged,crossbow,32,16,8,8
+ammunitions,pebbles,40,16,8,8
+ammunitions,short arrows,48,16,8,8
+ammunitions,long arrows,56,16,8,8
+ammunitions,master arrow,64,16,8,8
+ammunitions,bolts,72,16,8,8
+wands,gnarly wand,80,16,8,8
+wands,cross wand,88,16,8,8
+wands,crystal wand,96,16,8,8
+wands,gemmed wand,104,16,8,8
+wands,twig wand,112,16,8,8
+staffs,cross staff,120,16,8,8
+staffs,spiral staff,128,16,8,8
+staffs,straight staff,136,16,8,8
+staffs,rippled staff,144,16,8,8
+staffs,gnarly staff,152,16,8,8
+food,bread,160,16,8,8
+food,egg,168,16,8,8
+food,cheese,176,16,8,8
+food,apple,184,16,8,8
+food,steak,192,16,8,8
+food,fish,200,16,8,8
+food,drumstick,208,16,8,8
+food,sausage,216,16,8,8
+food,potato,224,16,8,8
+ingredients,mushroom,232,16,8,8
+ingredients,herbs,240,16,8,8
+ingredients,cusps,248,16,8,8
+ingredients,berries,256,16,8,8
+ingredients,moss,264,16,8,8
+ingredients,worms,272,16,8,8
+potions,potion a,280,16,8,8
+potions,potion b,288,16,8,8
+potions,potion c,296,16,8,8
+potions,potion d,304,16,8,8
+potions,potion e,312,16,8,8
+potions,potion f,0,24,8,8
+valuables,small coins,8,24,8,8
+valuables,big coins,16,24,8,8
+valuables,gem stones,24,24,8,8
+valuables,gold bar,32,24,8,8
+valuables,big gem,40,24,8,8
+valuables,jeweled cup,48,24,8,8
+valuables,medium gem,56,24,8,8
+documents,empty scroll a,64,24,8,8
+documents,inscribed scroll a,72,24,8,8
+documents,empty book,80,24,8,8
+documents,labeled book,88,24,8,8
+documents,empty scroll b,96,24,8,8
+documents,inscribed scroll b,104,24,8,8
+documents,map,112,24,8,8
+utils,feather and ink,120,24,8,8
+utils,bedroll,128,24,8,8
+utils,blanket,136,24,8,8
+utils,rope,144,24,8,8
+utils,tent,152,24,8,8
+utils,pouch,160,24,8,8
+utils,flask,168,24,8,8
+utils,waterskin,176,24,8,8
+utils,backpack,184,24,8,8
+utils,quiver,192,24,8,8
+lights,torch,200,24,8,8
+lights,torch lit,208,24,8,8
+lights,lantern,216,24,8,8
+lights,lantern lit,224,24,8,8
+lights,lantern oil,232,24,8,8
+tools,sickle,240,24,8,8
+tools,fishing rod,248,24,8,8
+tools,chopping axe,256,24,8,8
+tools,mining axe,264,24,8,8
+tools,carpentry tools,272,24,8,8
+tools,shovel,280,24,8,8
+keys,skull key,288,24,8,8
+keys,square key,296,24,8,8
+keys,round key,304,24,8,8
+keys,heart key,312,24,8,8
+ui icons,armor0,0,32,8,8
+ui icons,armor1,8,32,8,8
+ui icons,armor2,16,32,8,8
+ui icons,heart0,24,32,8,8
+ui icons,heart1,32,32,8,8
+ui icons,heart2,40,32,8,8
+ui icons,star0,48,32,8,8
+ui icons,star1,56,32,8,8
+ui icons,star2,64,32,8,8
+misc icons,cross potent,72,32,8,8
+misc icons,electric bolt,80,32,8,8
+misc icons,skull,88,32,8,8
+misc icons,sparkle,96,32,8,8
+misc icons,slime ball,104,32,8,8
+misc icons,wind force,112,32,8,8
+misc icons,fire,120,32,8,8
+misc icons,water wave,128,32,8,8
+misc icons,bubble,136,32,8,8
+animals,goose,144,32,8,8
+animals,chicken,152,32,8,8
+animals,cat,160,32,8,8
+animals,dog,168,32,8,8
+animals,cow,176,32,8,8
+animals,horse,184,32,8,8
+animals,sheep,192,32,8,8
+animals,pig,200,32,8,8
+animals,snake,208,32,8,8
+animals,deer,216,32,8,8
+animals,stag,224,32,8,8
+animals,boar,232,32,8,8
+animals,llama,240,32,8,8
+animals,alpaca,248,32,8,8
+animals,gorilla,256,32,8,8
+animals,monkey,264,32,8,8
+animals,turkey,272,32,8,8
+animals,rabbit,280,32,8,8
+animals,fox,288,32,8,8
+animals,turtle,296,32,8,8
+heroes & villagers,warrior,304,32,8,8
+heroes & villagers,dwarf,312,32,8,8
+heroes & villagers,elf,0,40,8,8
+heroes & villagers,halfling,8,40,8,8
+heroes & villagers,magic user,16,40,8,8
+heroes & villagers,bard,24,40,8,8
+heroes & villagers,villager a,32,40,8,8
+heroes & villagers,villager b,40,40,8,8
+heroes & villagers,villager c,48,40,8,8
+heroes & villagers,farmer,56,40,8,8
+heroes & villagers,worker,64,40,8,8
+heroes & villagers,karateka,72,40,8,8
+heroes & villagers,ninja,80,40,8,8
+heroes & villagers,priest,88,40,8,8
+heroes & villagers,pirate,96,40,8,8
+heroes & villagers,shepard,104,40,8,8
+heroes & villagers,treasurer,112,40,8,8
+heroes & villagers,guard,120,40,8,8
+heroes & villagers,high priest,128,40,8,8
+heroes & villagers,strong villager,136,40,8,8
+creatures,dark slime,144,40,8,8
+creatures,bright slime,152,40,8,8
+creatures,rat,160,40,8,8
+creatures,skeleton,168,40,8,8
+creatures,wraith,176,40,8,8
+creatures,zombie,184,40,8,8
+creatures,mummy,192,40,8,8
+creatures,goblin,200,40,8,8
+creatures,goblin shaman,208,40,8,8
+creatures,ork,216,40,8,8
+creatures,ork shaman,224,40,8,8
+creatures,troll,232,40,8,8
+creatures,reptiloid,240,40,8,8
+creatures,unipus,248,40,8,8
+creatures,crab,256,40,8,8
+creatures,cyclops,264,40,8,8
+creatures,wyrm,272,40,8,8
+creatures,gargoyle,280,40,8,8
+creatures,harpy,288,40,8,8
+creatures,sixtacle,296,40,8,8
+creatures,fire elemental,304,40,8,8
+creatures,golem,312,40,8,8
+creatures,water elemental,0,48,8,8
+creatures,air elemental,8,48,8,8
+creatures,ent,16,48,8,8
+creatures,hag,24,48,8,8
+creatures,fairy,32,48,8,8
+creatures,banshee,40,48,8,8
+creatures,centaur,48,48,8,8
+creatures,unicorn,56,48,8,8
+creatures,minotaur,64,48,8,8
+creatures,hydra,72,48,8,8
+creatures,sphinx,80,48,8,8
+creatures,griffin,88,48,8,8
+creatures,serpentoid,96,48,8,8
+creatures,bat,104,48,8,8
+creatures,nymph,112,48,8,8
+creatures,succubus,120,48,8,8
+creatures,vampire,128,48,8,8
+creatures,pegasus,136,48,8,8
+creatures,mermaid,144,48,8,8
+creatures,tendril,152,48,8,8
+creatures,dragon,160,48,8,8
+creatures,chimera,168,48,8,8
+creatures,werewolf,176,48,8,8
+creatures,spider,184,48,8,8
+frames,frameA tl,192,48,8,8
+frames,frameA t,200,48,8,8
+frames,frameA tr,208,48,8,8
+frames,frameB tl,216,48,8,8
+frames,frameB t,224,48,8,8
+frames,frameB tr,232,48,8,8
+frames,frameC tl,240,48,8,8
+frames,frameC t,248,48,8,8
+frames,frameC tr,256,48,8,8
+frames,frameD tr,264,48,8,8
+frames,frameC b |-,272,48,8,8
+frames,frameC b -|,280,48,8,8
+frames,frameB b |-,288,48,8,8
+frames,frameB b -|,296,48,8,8
+frames,frameA l,304,48,8,8
+frames,frameB t |-,312,48,8,8
+frames,frameA r,0,56,8,8
+frames,frameB l,8,56,8,8
+frames,frameB t -|,16,56,8,8
+frames,frameB r,24,56,8,8
+frames,frameC l,32,56,8,8
+frames,frameD tl,40,56,8,8
+frames,frameC r,48,56,8,8
+frames,frameD bl,56,56,8,8
+frames,frameC t |-,64,56,8,8
+frames,frameC t -|,72,56,8,8
+frames,frameC t T,80,56,8,8
+frames,frameC b T,88,56,8,8
+frames,frameA bl,96,56,8,8
+frames,frameA b,104,56,8,8
+frames,frameA br,112,56,8,8
+frames,frameB bl,120,56,8,8
+frames,frameB b,128,56,8,8
+frames,frameB br,136,56,8,8
+frames,frameC bl,144,56,8,8
+frames,frameC b,152,56,8,8
+frames,frameC br,160,56,8,8
+frames,frameD br,168,56,8,8
+frames,frameB t T,176,56,8,8
+frames,frameB b T,184,56,8,8
+frames,frameB |,192,56,8,8
+frames,frameC |,200,56,8,8
+patterns,dots shifted 4,208,56,8,8
+patterns,dots shifted 16,216,56,8,8
+patterns,dots shifted 32,224,56,8,8
+patterns,filled,232,56,8,8
+patterns,dots slanted,240,56,8,8
+patterns,slanted lines thin,248,56,8,8
+patterns,slanted lines thick,256,56,8,8
+patterns,dots irregular,264,56,8,8
+patterns,waves broken,272,56,8,8
+patterns,waves thin,280,56,8,8
+patterns,waves thick,288,56,8,8
+patterns,coarse,296,56,8,8
+patterns,lines vertical,304,56,8,8
+patterns,lines horizontal,312,56,8,8
+symbols,arrow white e,0,64,8,8
+symbols,arrow white s,8,64,8,8
+symbols,arrow white w,16,64,8,8
+symbols,arrow white n,24,64,8,8
+symbols,arrow black e,32,64,8,8
+symbols,arrow black s,40,64,8,8
+symbols,arrow black w,48,64,8,8
+symbols,arrow black n,56,64,8,8
+symbols,arrow thin e,64,64,8,8
+symbols,arrow thin s,72,64,8,8
+symbols,arrow thin w,80,64,8,8
+symbols,arrow thin n,88,64,8,8
+symbols,ball dark,96,64,8,8
+symbols,ball light,104,64,8,8
+cliffs,cliff tl,112,64,8,8
+cliffs,cliff t 1,120,64,8,8
+cliffs,cliff t 2,128,64,8,8
+cliffs,cliff t 3,136,64,8,8
+cliffs,cliff tr,144,64,8,8
+cliffs,cliff l 1,152,64,8,8
+cliffs,cliff l 2,160,64,8,8
+cliffs,cliff l 3,168,64,8,8
+cliffs,cliff r 1,176,64,8,8
+cliffs,cliff r 2,184,64,8,8
+cliffs,cliff r 3,192,64,8,8
+cliffs,cliff trb,200,64,8,8
+cliffs,cliff lbr,208,64,8,8
+cliffs,cliff tlb,216,64,8,8
+cliffs,cliff ltr,224,64,8,8
+cliffs,cliff bl,232,64,8,8
+cliffs,cliff b 1,240,64,8,8
+cliffs,cliff b 2,248,64,8,8
+cliffs,cliff b 3,256,64,8,8
+cliffs,cliff br,264,64,8,8
+cliffs,cliff outline tl,272,64,8,8
+cliffs,cliff outline t 1,280,64,8,8
+cliffs,cliff outline t 2,288,64,8,8
+cliffs,cliff outline t 3,296,64,8,8
+cliffs,cliff outline tr,304,64,8,8
+cliffs,cliff outline l 1,312,64,8,8
+cliffs,cliff outline l 2,0,72,8,8
+cliffs,cliff outline l 3,8,72,8,8
+cliffs,cliff outline r 1,16,72,8,8
+cliffs,cliff outline r 2,24,72,8,8
+cliffs,cliff outline r 3,32,72,8,8
+cliffs,cliff outline trb,40,72,8,8
+cliffs,cliff outline lbr,48,72,8,8
+cliffs,cliff outline tlb,56,72,8,8
+cliffs,cliff outline ltr,64,72,8,8
+cliffs,cliff outline bl,72,72,8,8
+cliffs,cliff outline b 1,80,72,8,8
+cliffs,cliff outline b 2,88,72,8,8
+cliffs,cliff outline b 3,96,72,8,8
+cliffs,cliff outline br,104,72,8,8
+cliffs,cliff ramp left to top,112,72,8,8
+cliffs,cliff ramp top to right,120,72,8,8
+cliffs,cliff wallA 1,128,72,8,8
+cliffs,cliff wallA 2,136,72,8,8
+cliffs,cliff wallA 3,144,72,8,8
+cliffs,cliff wallB 1,152,72,8,8
+cliffs,cliff wallB 2,160,72,8,8
+cliffs,cliff wallB 3,168,72,8,8
+cliffs,cliff halfhighA 1,176,72,8,8
+cliffs,cliff halfhighA 2,184,72,8,8
+cliffs,cliff halfhighB 1,192,72,8,8
+cliffs,cliff halfhighB 2,200,72,8,8
+cliffs,cliff single t1,208,72,8,8
+cliffs,cliff single t2,216,72,8,8
+cliffs,cliff single t3,224,72,8,8
+cliffs,cliff single t4,232,72,8,8
+rocks,rock a,240,72,8,8
+rocks,rock b,248,72,8,8
+rocks,small rocks a,256,72,8,8
+rocks,small rocks b,264,72,8,8
+conifers,conifer stump,272,72,8,8
+conifers,conifer bottom,280,72,8,8
+conifers,conifer bare middle a,288,72,8,8
+conifers,conifer bare middle b,296,72,8,8
+conifers,conifer bare top,304,72,8,8
+conifers,conifer bare tip,312,72,8,8
+conifers,conifer bare twigged middle a,0,80,8,8
+conifers,conifer bare twigged middle b,8,80,8,8
+conifers,conifer bare twigged top,16,80,8,8
+conifers,conifer bare twigged tip,24,80,8,8
+conifers,conifer middle cut,32,80,8,8
+conifers,conifer full middle right a,40,80,8,8
+conifers,conifer full middle left a,48,80,8,8
+conifers,conifer full middle bidirectional a,56,80,8,8
+conifers,conifer full middle right outer a,64,80,8,8
+conifers,conifer full middle left outer a,72,80,8,8
+conifers,conifer full middle right b,80,80,8,8
+conifers,conifer full middle left b,88,80,8,8
+conifers,conifer full middle bidirectional b,96,80,8,8
+conifers,conifer full middle right outer b,104,80,8,8
+conifers,conifer full middle left outer b,112,80,8,8
+conifers,conifer middle broken left,120,80,8,8
+conifers,conifer bottom broken left,128,80,8,8
+conifers,conifer middle broken right,136,80,8,8
+conifers,conifer bottom broken right,144,80,8,8
+conifers,conifer full middle right c,152,80,8,8
+conifers,conifer full middle left c,160,80,8,8
+conifers,conifer full middle bidirectional c,168,80,8,8
+conifers,conifer full middle right outer c,176,80,8,8
+conifers,conifer full middle left outer c,184,80,8,8
+conifers,hollow log left open 0,192,80,8,8
+conifers,hollow log left open 1,200,80,8,8
+conifers,hollow log right open 0,208,80,8,8
+conifers,hollow log right open 1,216,80,8,8
+conifers,twigs a,224,80,8,8
+conifers,twigs b,232,80,8,8
+broadleafs,broadleaf bottom,240,80,8,8
+broadleafs,broadleaf middle,248,80,8,8
+broadleafs,broadleaf y arm left,256,80,8,8
+broadleafs,broadleaf big hollow,264,80,8,8
+broadleafs,broadleaf y arm right,272,80,8,8
+broadleafs,broadleaf top mid to bot right,280,80,8,8
+broadleafs,broadleaf top mid to bot left,288,80,8,8
+broadleafs,broadleaf poke out branches a,296,80,8,8
+broadleafs,broadleaf poke out branches b,304,80,8,8
+broadleafs,broadleaf poke out branches c,312,80,8,8
+broadleafs,broadleaf poke out branches d,0,88,8,8
+broadleafs,broadleaf poke out branches e,8,88,8,8
+broadleafs,broadleaf top mid to bot right hole,16,88,8,8
+broadleafs,broadleaf top mid to bot left hole,24,88,8,8
+broadleafs,broadleaf big middle,32,88,8,8
+broadleafs,broadleaf big bottom top,40,88,8,8
+broadleafs,broadleaf elbow left,48,88,8,8
+broadleafs,broadleaf y arm start,56,88,8,8
+broadleafs,broadleaf elbow right,64,88,8,8
+broadleafs,broadleaf bot mid to top right,72,88,8,8
+broadleafs,broadleaf bot mid to top left,80,88,8,8
+broadleafs,broadleaf big bottom left,88,88,8,8
+broadleafs,broadleaf big bottom middle,96,88,8,8
+broadleafs,broadleaf big bottom right,104,88,8,8
+broadleafs,broadleaf big middle hole,112,88,8,8
+broadleafs,broadleaf middle hole,120,88,8,8
+broadleafs,broadleaf big middle cut,128,88,8,8
+broadleafs,gnarly branch,136,88,8,8
+foliage,foliage tl,144,88,8,8
+foliage,foliage t,152,88,8,8
+foliage,foliage tr,160,88,8,8
+foliage,foliage l,168,88,8,8
+foliage,foliage c1,176,88,8,8
+foliage,foliage c2,184,88,8,8
+foliage,foliage c holed,192,88,8,8
+foliage,foliage r,200,88,8,8
+foliage,foliage bl,208,88,8,8
+foliage,foliage b,216,88,8,8
+foliage,foliage br,224,88,8,8
+foliage,foliage inner tl,232,88,8,8
+foliage,foliage inner tr,240,88,8,8
+foliage,foliage inner bl,248,88,8,8
+foliage,foliage inner br,256,88,8,8
+bushes,bush big left,264,88,8,8
+bushes,bush big middle,272,88,8,8
+bushes,bush big right,280,88,8,8
+bushes,bush tall a,288,88,8,8
+bushes,bush tall b,296,88,8,8
+bushes,bush small,304,88,8,8
+bushes,bush a,312,88,8,8
+bushes,bush b,0,96,8,8
+bushes,bush hydra,8,96,8,8
+grass,grass short,16,96,8,8
+grass,grass medium,24,96,8,8
+grass,grass long,32,96,8,8
+grass,grass longblade a,40,96,8,8
+grass,grass longblade b,48,96,8,8
+grass,grass stripes,56,96,8,8
+grass,grass messy a,64,96,8,8
+grass,grass messy b,72,96,8,8
+grass,grass big blades a,80,96,8,8
+grass,grass big blades b,88,96,8,8
+grass,grass big blades c,96,96,8,8
+flowers,flowers small a,104,96,8,8
+flowers,flowers small b,112,96,8,8
+flowers,flowers small c,120,96,8,8
+flowers,flower big a,128,96,8,8
+flowers,flower big b,136,96,8,8
+housing insides,timberframe inside tl,144,96,8,8
+housing insides,timberframe inside t,152,96,8,8
+housing insides,timberframe inside tr,160,96,8,8
+housing insides,timberframe inside l,168,96,8,8
+housing insides,timberframe inside r,176,96,8,8
+housing insides,timberframe inside bl,184,96,8,8
+housing insides,timberframe inside b,192,96,8,8
+housing insides,timberframe inside br,200,96,8,8
+housing insides,timberframe inside inner tl,208,96,8,8
+housing insides,timberframe inside inner tr,216,96,8,8
+housing insides,timberframe inside inner bl,224,96,8,8
+housing insides,timberframe inside inner br,232,96,8,8
+housing insides,timberframe inside window closed e,240,96,8,8
+housing insides,timberframe inside window closed s,248,96,8,8
+housing insides,timberframe inside window closed w,256,96,8,8
+housing insides,timberframe inside window closed n,264,96,8,8
+housing insides,timberframe inside window open e,272,96,8,8
+housing insides,timberframe inside window open s,280,96,8,8
+housing insides,timberframe inside window open w,288,96,8,8
+housing insides,timberframe inside window open n,296,96,8,8
+housing insides,timberframe inside door closed e,304,96,8,8
+housing insides,timberframe inside door closed s,312,96,8,8
+housing insides,timberframe inside door closed w,0,104,8,8
+housing insides,timberframe inside door closed n,8,104,8,8
+housing insides,timberframe inside door open e,16,104,8,8
+housing insides,timberframe inside door open s,24,104,8,8
+housing insides,timberframe inside door open w,32,104,8,8
+housing insides,timberframe inside door open n,40,104,8,8
+housing insides,wall stone inside tl,48,104,8,8
+housing insides,wall stone inside t,56,104,8,8
+housing insides,wall stone inside tr,64,104,8,8
+housing insides,wall stone inside l,72,104,8,8
+housing insides,wall stone inside r,80,104,8,8
+housing insides,wall stone inside bl,88,104,8,8
+housing insides,wall stone inside b,96,104,8,8
+housing insides,wall stone inside br,104,104,8,8
+housing insides,wall stone inside inner tl,112,104,8,8
+housing insides,wall stone inside inner tr,120,104,8,8
+housing insides,wall stone inside inner bl,128,104,8,8
+housing insides,wall stone inside inner br,136,104,8,8
+housing insides,wall stone inside window closed e,144,104,8,8
+housing insides,wall stone inside window closed s,152,104,8,8
+housing insides,wall stone inside window closed w,160,104,8,8
+housing insides,wall stone inside window closed n,168,104,8,8
+housing insides,wall stone inside window open e,176,104,8,8
+housing insides,wall stone inside window open s,184,104,8,8
+housing insides,wall stone inside window open w,192,104,8,8
+housing insides,wall stone inside window open n,200,104,8,8
+housing insides,wall stone inside door closed e,208,104,8,8
+housing insides,wall stone inside door closed s,216,104,8,8
+housing insides,wall stone inside door closed w,224,104,8,8
+housing insides,wall stone inside door closed n,232,104,8,8
+housing insides,wall stone inside door open e,240,104,8,8
+housing insides,wall stone inside door open s,248,104,8,8
+housing insides,wall stone inside door open w,256,104,8,8
+housing insides,wall stone inside door open n,264,104,8,8
+housing insides,indoor fireplace l,272,104,8,8
+housing insides,indoor fireplace middle off,280,104,8,8
+housing insides,indoor fireplace middle on,288,104,8,8
+housing insides,indoor fireplace r,296,104,8,8
+housing insides,potted plant a,304,104,8,8
+housing insides,potted plant b,312,104,8,8
+doors & windows,timberframe door closed,0,112,8,8
+doors & windows,timberframe door open,8,112,8,8
+doors & windows,wall stone door closed,16,112,8,8
+doors & windows,wall stone door open,24,112,8,8
+doors & windows,timberframe outside window a closed,32,112,8,8
+doors & windows,timberframe outside window a open,40,112,8,8
+doors & windows,timberframe outside window b closed,48,112,8,8
+doors & windows,timberframe outside window b open,56,112,8,8
+doors & windows,timberframe outside groundlevel window closed,64,112,8,8
+doors & windows,timberframe outside groundlevel window open,72,112,8,8
+doors & windows,wall stone window closed,80,112,8,8
+doors & windows,wall stone window open,88,112,8,8
+doors & windows,wall stone groundlevel window closed,96,112,8,8
+doors & windows,wall stone groundlevel window open,104,112,8,8
+stairs & ladders,stairs timber north up l,112,112,8,8
+stairs & ladders,stairs timber north down l,120,112,8,8
+stairs & ladders,stairs timber north up r,128,112,8,8
+stairs & ladders,stairs timber north down r,136,112,8,8
+stairs & ladders,stairs stone north up l,144,112,8,8
+stairs & ladders,stairs stone north down l,152,112,8,8
+stairs & ladders,stairs stone north up r,160,112,8,8
+stairs & ladders,stairs stone north down r,168,112,8,8
+stairs & ladders,stairs through floor down r,176,112,8,8
+stairs & ladders,stairs through ceiling up r,184,112,8,8
+stairs & ladders,stairs through floor down l,192,112,8,8
+stairs & ladders,stairs through floor up l,200,112,8,8
+stairs & ladders,ladder through ceiling up,208,112,8,8
+stairs & ladders,ladder through floor down,216,112,8,8
+stairs & ladders,ladder bottom,224,112,8,8
+stairs & ladders,ladder middle,232,112,8,8
+stairs & ladders,ladder top,240,112,8,8
+stairs & ladders,hanging ladder top,248,112,8,8
+stairs & ladders,hanging ladder middle,256,112,8,8
+stairs & ladders,hanging ladder bottom,264,112,8,8
+stairs & ladders,wall foot climbing holes,272,112,8,8
+stairs & ladders,stairs ramp horizontal a,280,112,8,8
+stairs & ladders,stairs ramp horizontal b,288,112,8,8
+stairs & ladders,stairs ramp l,296,112,8,8
+stairs & ladders,stairs ramp r,304,112,8,8
+floors,planks diagonal,312,112,8,8
+floors,small carpet,0,120,8,8
+floors,fur east,8,120,8,8
+floors,fur south,16,120,8,8
+floors,fur west,24,120,8,8
+floors,fur north,32,120,8,8
+floors,long carpet horizontal l,40,120,8,8
+floors,long carpet horizontal middle,48,120,8,8
+floors,long carpet horizontal r,56,120,8,8
+floors,long carpet vertical b,64,120,8,8
+floors,long carpet vertical middle,72,120,8,8
+floors,long carpet vertical t,80,120,8,8
+floors,floor checkers 2x2,88,120,8,8
+floors,floor dot grid,96,120,8,8
+floors,cobblestones 2,104,120,8,8
+floors,cobblestones 3,112,120,8,8
+floors,big carpet tl,120,120,8,8
+floors,big carpet t a,128,120,8,8
+floors,big carpet t b,136,120,8,8
+floors,big carpet tr,144,120,8,8
+floors,big carpet l a,152,120,8,8
+floors,big carpet l b,160,120,8,8
+floors,big carpet c blank,168,120,8,8
+floors,big carpet c decorated,176,120,8,8
+floors,big carpet r a,184,120,8,8
+floors,big carpet r b,192,120,8,8
+floors,big carpet bl,200,120,8,8
+floors,big carpet b a,208,120,8,8
+floors,big carpet b b,216,120,8,8
+floors,big carpet br,224,120,8,8
+furniture,chair west,232,120,8,8
+furniture,chair east,240,120,8,8
+furniture,chair south,248,120,8,8
+furniture,chair north,256,120,8,8
+furniture,bed west,264,120,8,8
+furniture,bed east,272,120,8,8
+furniture,bed south,280,120,8,8
+furniture,bed north,288,120,8,8
+furniture,table vertical b,296,120,8,8
+furniture,table vertical middle,304,120,8,8
+furniture,table vertical top,312,120,8,8
+furniture,table horizontal l,0,128,8,8
+furniture,table horizontal middle,8,128,8,8
+furniture,table horizontal r,16,128,8,8
+furniture,stool rectangular,24,128,8,8
+furniture,stool round,32,128,8,8
+furniture,table rectangular,40,128,8,8
+furniture,table round,48,128,8,8
+furniture,bookshelf tall,56,128,8,8
+furniture,bookshelf small,64,128,8,8
+storage,large chest closed,72,128,8,8
+storage,large chest open,80,128,8,8
+storage,small chest closed,88,128,8,8
+storage,small chest open,96,128,8,8
+storage,box closed,104,128,8,8
+storage,box open,112,128,8,8
+storage,wardrobe closed,120,128,8,8
+storage,wardrobe open,128,128,8,8
+storage,drawer closed,136,128,8,8
+storage,drawer open,144,128,8,8
+storage,wide drawer closed,152,128,8,8
+storage,wide drawer open,160,128,8,8
+storage,barrel closed,168,128,8,8
+storage,barrel open,176,128,8,8
+roofs,roof plain tl,184,128,8,8
+roofs,roof plain t,192,128,8,8
+roofs,roof plain tr,200,128,8,8
+roofs,roof plain l,208,128,8,8
+roofs,roof plain r,216,128,8,8
+roofs,roof plain bl,224,128,8,8
+roofs,roof plain b,232,128,8,8
+roofs,roof plain br,240,128,8,8
+roofs,roof plain chimney l,248,128,8,8
+roofs,roof plain chimney r,256,128,8,8
+roofs,outside chimney small,264,128,8,8
+roofs,outside chimney wide,272,128,8,8
+roofs,roof plain d out nw,280,128,8,8
+roofs,roof plain d out ne,288,128,8,8
+roofs,roof plain d out sw,296,128,8,8
+roofs,roof plain d out se,304,128,8,8
+roofs,roof plain \,312,128,8,8
+roofs,roof plain /,0,136,8,8
+roofs,roof plain X,8,136,8,8
+roofs,roof plain back /,16,136,8,8
+roofs,roof plain back \,24,136,8,8
+roofs,roof plain |:,32,136,8,8
+roofs,roof plain front /,40,136,8,8
+roofs,roof plain front \,48,136,8,8
+roofs,roof plain gable middle back,56,136,8,8
+roofs,roof gable middle vertical,64,136,8,8
+roofs,roof plain gable middle front,72,136,8,8
+roofs,roof gable left,80,136,8,8
+roofs,roof gable middle horizontal,88,136,8,8
+roofs,roof gable right,96,136,8,8
+housing outsides,timberframe outside \,104,136,8,8
+housing outsides,timberframe outside |/,112,136,8,8
+housing outsides,timberframe outside |\,120,136,8,8
+housing outsides,timberframe outside a,128,136,8,8
+housing outsides,timberframe outside b,136,136,8,8
+housing outsides,timberframe outside c,144,136,8,8
+housing outsides,timberframe outside \|,152,136,8,8
+housing outsides,timberframe outside /|,160,136,8,8
+housing outsides,timberframe outside /,168,136,8,8
+housing outsides,timberframe outside groundlevel |/,176,136,8,8
+housing outsides,timberframe outside groundlevel |\,184,136,8,8
+housing outsides,timberframe outside groundlevel a,192,136,8,8
+housing outsides,timberframe outside groundlevel b,200,136,8,8
+housing outsides,timberframe outside groundlevel c,208,136,8,8
+housing outsides,timberframe outside groundlevel \|,216,136,8,8
+housing outsides,timberframe outside groundlevel /|,224,136,8,8
+housing outsides,wall stone \:,232,136,8,8
+housing outsides,wall stone l,240,136,8,8
+housing outsides,wall stone a,248,136,8,8
+housing outsides,wall stone b,256,136,8,8
+housing outsides,wall stone c,264,136,8,8
+housing outsides,wall stone r,272,136,8,8
+housing outsides,wall stone :/,280,136,8,8
+housing outsides,lantern top l off,288,136,8,8
+housing outsides,lantern top l on,296,136,8,8
+housing outsides,lantern top r off,304,136,8,8
+housing outsides,lantern top r on,312,136,8,8
+housing outsides,small sign,0,144,8,8
+housing outsides,small fence tl,8,144,8,8
+housing outsides,small fence vl,16,144,8,8
+housing outsides,small fence vr,24,144,8,8
+housing outsides,small fence tr,32,144,8,8
+housing outsides,small fence bl,40,144,8,8
+housing outsides,small fence h a,48,144,8,8
+housing outsides,small fence h b,56,144,8,8
+housing outsides,small fence h c,64,144,8,8
+housing outsides,small fence h d,72,144,8,8
+housing outsides,small fence br,80,144,8,8
+housing outsides,lantern botoom l,88,144,8,8
+housing outsides,lantern botoom r,96,144,8,8
+housing outsides,firepot off,104,144,8,8
+housing outsides,firepot on,112,144,8,8
+decals,decal t1 e,120,144,8,8
+decals,decal t2 e,128,144,8,8
+decals,decal t3 e,136,144,8,8
+decals,decal t1 s,144,144,8,8
+decals,decal t2 s,152,144,8,8
+decals,decal t3 s,160,144,8,8
+decals,decal t1 w,168,144,8,8
+decals,decal t2 w,176,144,8,8
+decals,decal t3 w,184,144,8,8
+decals,decal t1 n,192,144,8,8
+decals,decal t2 n,200,144,8,8
+decals,decal t3 n,208,144,8,8
+decals,decal /1 nw,216,144,8,8
+decals,decal /1 se,224,144,8,8
+decals,decal //,232,144,8,8
+decals,decal \1 ne,240,144,8,8
+decals,decal \1 sw,248,144,8,8
+decals,decal \\,256,144,8,8
+decals,decal torch off e,264,144,8,8
+decals,decal torch on e,272,144,8,8
+decals,decal torch off s,280,144,8,8
+decals,decal torch on s,288,144,8,8
+decals,decal torch off w,296,144,8,8
+decals,decal torch on w,304,144,8,8
+decals,decal torch off n,312,144,8,8
+decals,decal torch on n,0,152,8,8
+graveyard,cross /,8,152,8,8
+graveyard,cross |,16,152,8,8
+graveyard,cross \,24,152,8,8
+graveyard,gravestone /,32,152,8,8
+graveyard,gravestone |,40,152,8,8
+graveyard,gravestone \,48,152,8,8
+graveyard,gravestone socket front thin,56,152,8,8
+graveyard,gravestone socket top thin,64,152,8,8
+graveyard,cross circled thin,72,152,8,8
+graveyard,gravestone socket front thick,80,152,8,8
+graveyard,gravestone socket top thick,88,152,8,8
+graveyard,cross circled thick,96,152,8,8
+graveyard,dirt pile | b,104,152,8,8
+graveyard,dirt pile | t,112,152,8,8
+graveyard,dirt pile - l,120,152,8,8
+graveyard,dirt pile - r,128,152,8,8
+graveyard,iron fence tl,136,152,8,8
+graveyard,iron fence t1,144,152,8,8
+graveyard,iron fence t2,152,152,8,8
+graveyard,iron fence t3,160,152,8,8
+graveyard,iron fence t4,168,152,8,8
+graveyard,iron fence t5,176,152,8,8
+graveyard,iron fence t6,184,152,8,8
+graveyard,iron fence tp1,192,152,8,8
+graveyard,iron fence tp2,200,152,8,8
+graveyard,iron fence tr,208,152,8,8
+graveyard,iron fence l1,216,152,8,8
+graveyard,iron fence l2,224,152,8,8
+graveyard,iron fence l3,232,152,8,8
+graveyard,iron fence l4,240,152,8,8
+graveyard,iron fence r1,248,152,8,8
+graveyard,iron fence r2,256,152,8,8
+graveyard,iron fence r3,264,152,8,8
+graveyard,iron fence r4,272,152,8,8
+graveyard,iron fence bl,280,152,8,8
+graveyard,iron fence br,288,152,8,8
+graveyard,iron gate bl closed,296,152,8,8
+graveyard,iron gate tl closed,304,152,8,8
+graveyard,iron gate br closed,312,152,8,8
+graveyard,iron gate tr closed,0,160,8,8
+graveyard,iron gate bl open,8,160,8,8
+graveyard,iron gate tl open,16,160,8,8
+graveyard,iron gate br open,24,160,8,8
+graveyard,iron gate tr open,32,160,8,8
+graveyard,hedge tl,40,160,8,8
+graveyard,hedge t1,48,160,8,8
+graveyard,hedge t2,56,160,8,8
+graveyard,hedge t3,64,160,8,8
+graveyard,hedge tr,72,160,8,8
+graveyard,hedge l1,80,160,8,8
+graveyard,hedge l2,88,160,8,8
+graveyard,hedge l3,96,160,8,8
+graveyard,hedge r1,104,160,8,8
+graveyard,hedge r2,112,160,8,8
+graveyard,hedge r3,120,160,8,8
+graveyard,hedge bl,128,160,8,8
+graveyard,hedge br,136,160,8,8
+graveyard,dead tree base,144,160,8,8
+graveyard,dead tree stump,152,160,8,8
+graveyard,dead tree (,160,160,8,8
+graveyard,dead tree ),168,160,8,8
+graveyard,dead tree y1,176,160,8,8
+graveyard,dead tree y2,184,160,8,8
+graveyard,dead tree t1,192,160,8,8
+graveyard,dead tree t2,200,160,8,8
+graveyard,dead tree elbow l,208,160,8,8
+graveyard,dead tree elbow r,216,160,8,8
+graveyard,dead tree l,224,160,8,8
+graveyard,dead tree y3,232,160,8,8
+graveyard,dead tree y4,240,160,8,8
+graveyard,dead tree r,248,160,8,8
+graveyard,crypta roof l,256,160,8,8
+graveyard,crypta roof middle,264,160,8,8
+graveyard,crypta roof r,272,160,8,8
+graveyard,crypta base l,280,160,8,8
+graveyard,crypta sealed,288,160,8,8
+graveyard,crypta opened,296,160,8,8
+graveyard,crypta base r,304,160,8,8
+graveyard,gallow base,312,160,8,8
+graveyard,gallow r,0,168,8,8
+graveyard,gallow rt l,8,168,8,8
+graveyard,gallow rt r,16,168,8,8
+graveyard,gallow r noose,24,168,8,8
+graveyard,gallow l,32,168,8,8
+graveyard,gallow lt r,40,168,8,8
+graveyard,gallow lt l,48,168,8,8
+graveyard,gallow l noose,56,168,8,8
+graveyard,small firepot off,64,168,8,8
+graveyard,small firepot on,72,168,8,8
+graveyard,candlestick base,80,168,8,8
+graveyard,candlestick top off,88,168,8,8
+graveyard,candlestick top on,96,168,8,8
+graveyard,open grave | b,104,168,8,8
+graveyard,open grave | t,112,168,8,8
+graveyard,open grave - l,120,168,8,8
+graveyard,open grave - r,128,168,8,8
+graveyard,big coffin l l closed,136,168,8,8
+graveyard,big coffin l r closed,144,168,8,8
+graveyard,big coffin l l open,152,168,8,8
+graveyard,big coffin l r open,160,168,8,8
+graveyard,big coffin r l closed,168,168,8,8
+graveyard,big coffin r r closed,176,168,8,8
+graveyard,big coffin r l open,184,168,8,8
+graveyard,big coffin r r open,192,168,8,8
+graveyard,small coffin e closed,200,168,8,8
+graveyard,small coffin e open,208,168,8,8
+graveyard,small coffin s closed,216,168,8,8
+graveyard,small coffin s open,224,168,8,8
+graveyard,small coffin w closed,232,168,8,8
+graveyard,small coffin w open,240,168,8,8
+graveyard,small coffin n closed,248,168,8,8
+graveyard,small coffin n open,256,168,8,8
+dungeon,candles 1,264,168,8,8
+dungeon,candles 2,272,168,8,8
+dungeon,candles 3,280,168,8,8
+dungeon,stone sarcophagus | t closed,288,168,8,8
+dungeon,stone sarcophagus | b closed,296,168,8,8
+dungeon,stone sarcophagus | t open,304,168,8,8
+dungeon,stone sarcophagus | b open,312,168,8,8
+dungeon,stone sarcophagus - l closed,0,176,8,8
+dungeon,stone sarcophagus - r closed,8,176,8,8
+dungeon,stone sarcophagus - l open,16,176,8,8
+dungeon,stone sarcophagus - r open,24,176,8,8
+dungeon,weapon stand l sword,32,176,8,8
+dungeon,weapon stand r shield,40,176,8,8
+dungeon,pressure plate state high,48,176,8,8
+dungeon,pressure plate state low,56,176,8,8
+dungeon,big lever state left,64,176,8,8
+dungeon,big lever state right,72,176,8,8
+dungeon,big lever empty slot,80,176,8,8
+dungeon,skull l,88,176,8,8
+dungeon,skull r,96,176,8,8
+dungeon,bones1,104,176,8,8
+dungeon,bones2,112,176,8,8
+dungeon,bones3,120,176,8,8
+dungeon,bones4,128,176,8,8
+dungeon,splats1,136,176,8,8
+dungeon,splats2,144,176,8,8
+dungeon,splats3,152,176,8,8
+dungeon,splats4,160,176,8,8
+dungeon,stockade hand l,168,176,8,8
+dungeon,stockade hand r,176,176,8,8
+dungeon,stockade head,184,176,8,8
+dungeon,iron fire basket off,192,176,8,8
+dungeon,iron fire basket on,200,176,8,8
+dungeon,floor grating,208,176,8,8
+dungeon,dungeon wall tl,216,176,8,8
+dungeon,dungeon wall tb1,224,176,8,8
+dungeon,dungeon wall tb2,232,176,8,8
+dungeon,dungeon wall t3,240,176,8,8
+dungeon,dungeon wall t4,248,176,8,8
+dungeon,dungeon wall t5,256,176,8,8
+dungeon,dungeon wall t6,264,176,8,8
+dungeon,dungeon wall t grate,272,176,8,8
+dungeon,dungeon wall t bolt trap,280,176,8,8
+dungeon,dungeon wall tr,288,176,8,8
+dungeon,dungeon wall lr1,296,176,8,8
+dungeon,dungeon wall lr2,304,176,8,8
+dungeon,dungeon wall l3,312,176,8,8
+dungeon,dungeon wall l4,0,184,8,8
+dungeon,dungeon wall l5,8,184,8,8
+dungeon,dungeon wall l6,16,184,8,8
+dungeon,dungeon wall l grate,24,184,8,8
+dungeon,dungeon wall l bolt trap,32,184,8,8
+dungeon,dungeon wall r3,40,184,8,8
+dungeon,dungeon wall r4,48,184,8,8
+dungeon,dungeon wall r5,56,184,8,8
+dungeon,dungeon wall r6,64,184,8,8
+dungeon,dungeon wall r grate,72,184,8,8
+dungeon,dungeon wall r bolt trap,80,184,8,8
+dungeon,dungeon wall bl,88,184,8,8
+dungeon,dungeon wall b3,96,184,8,8
+dungeon,dungeon wall b4,104,184,8,8
+dungeon,dungeon wall b5,112,184,8,8
+dungeon,dungeon wall b6,120,184,8,8
+dungeon,dungeon wall b grate,128,184,8,8
+dungeon,dungeon wall b bolt trap,136,184,8,8
+dungeon,dungeon wall br,144,184,8,8
+dungeon,dungeon wall inner tl,152,184,8,8
+dungeon,dungeon wall inner tr,160,184,8,8
+dungeon,dungeon wall inner bl,168,184,8,8
+dungeon,dungeon wall inner br,176,184,8,8
+dungeon,dungeon wall bookshelf e0,184,184,8,8
+dungeon,dungeon wall bookshelf e1,192,184,8,8
+dungeon,dungeon wall bookshelf s0,200,184,8,8
+dungeon,dungeon wall bookshelf s1,208,184,8,8
+dungeon,dungeon wall bookshelf w0,216,184,8,8
+dungeon,dungeon wall bookshelf w1,224,184,8,8
+dungeon,dungeon wall bookshelf n0,232,184,8,8
+dungeon,dungeon wall bookshelf n1,240,184,8,8
+dungeon,dungeon wall crate closed e0,248,184,8,8
+dungeon,dungeon wall crate closed e1,256,184,8,8
+dungeon,dungeon wall crate closed s0,264,184,8,8
+dungeon,dungeon wall crate closed s1,272,184,8,8
+dungeon,dungeon wall crate closed w0,280,184,8,8
+dungeon,dungeon wall crate closed w1,288,184,8,8
+dungeon,dungeon wall crate closed n0,296,184,8,8
+dungeon,dungeon wall crate closed n1,304,184,8,8
+dungeon,dungeon wall crate open e0,312,184,8,8
+dungeon,dungeon wall crate open e1,0,192,8,8
+dungeon,dungeon wall crate open s0,8,192,8,8
+dungeon,dungeon wall crate open s1,16,192,8,8
+dungeon,dungeon wall crate open w0,24,192,8,8
+dungeon,dungeon wall crate open w1,32,192,8,8
+dungeon,dungeon wall crate open n0,40,192,8,8
+dungeon,dungeon wall crate open n1,48,192,8,8
+dungeon,dungeon halfhigh tl,56,192,8,8
+dungeon,dungeon halfhigh t,64,192,8,8
+dungeon,dungeon halfhigh tr,72,192,8,8
+dungeon,dungeon halfhigh l,80,192,8,8
+dungeon,dungeon halfhigh r,88,192,8,8
+dungeon,dungeon halfhigh bl,96,192,8,8
+dungeon,dungeon halfhigh b,104,192,8,8
+dungeon,dungeon halfhigh br,112,192,8,8
+dungeon,dungeon halfhigh inner tl,120,192,8,8
+dungeon,dungeon halfhigh inner tr,128,192,8,8
+dungeon,dungeon halfhigh inner br,136,192,8,8
+dungeon,dungeon halfhigh inner bl,144,192,8,8
+dungeon,dungeon halfhigh stairs e,152,192,8,8
+dungeon,dungeon halfhigh stairs s,160,192,8,8
+dungeon,dungeon halfhigh stairs w,168,192,8,8
+dungeon,dungeon halfhigh stairs n,176,192,8,8
+dungeon,dungeon stairs e,184,192,8,8
+dungeon,dungeon stairs s,192,192,8,8
+dungeon,dungeon stairs w,200,192,8,8
+dungeon,dungeon stairs n,208,192,8,8
+dungeon,iron bar door e open,216,192,8,8
+dungeon,iron bar door e closed,224,192,8,8
+dungeon,iron bar door s open,232,192,8,8
+dungeon,iron bar door s closed,240,192,8,8
+dungeon,iron bar door w open,248,192,8,8
+dungeon,iron bar door w closed,256,192,8,8
+dungeon,iron bar door n open,264,192,8,8
+dungeon,iron bar door n closed,272,192,8,8
+pillars & beams,stone pillar square base empty,280,192,8,8
+pillars & beams,stone pillar square base 1,288,192,8,8
+pillars & beams,stone pillar square m1,296,192,8,8
+pillars & beams,stone pillar square t1,304,192,8,8
+pillars & beams,stone pillar square m2,312,192,8,8
+pillars & beams,stone pillar square t2,0,200,8,8
+pillars & beams,stone pillar round base empty,8,200,8,8
+pillars & beams,stone pillar round base 1,16,200,8,8
+pillars & beams,stone pillar round m1,24,200,8,8
+pillars & beams,stone pillar round t1,32,200,8,8
+pillars & beams,stone pillar round m2,40,200,8,8
+pillars & beams,stone pillar round t2,48,200,8,8
+pillars & beams,stone pillar broken square l0,56,200,8,8
+pillars & beams,stone pillar broken square l1,64,200,8,8
+pillars & beams,stone pillar broken square l2,72,200,8,8
+pillars & beams,stone pillar broken square r0,80,200,8,8
+pillars & beams,stone pillar broken square r1,88,200,8,8
+pillars & beams,stone pillar broken square r2,96,200,8,8
+pillars & beams,wood support lb,104,200,8,8
+pillars & beams,wood support lt,112,200,8,8
+pillars & beams,wood support rb,120,200,8,8
+pillars & beams,wood support rt,128,200,8,8
+pillars & beams,wood support mb,136,200,8,8
+pillars & beams,wood support mt,144,200,8,8
+pillars & beams,wood beam - lb,152,200,8,8
+pillars & beams,wood beam - mrb,160,200,8,8
+pillars & beams,wood beam - lm,168,200,8,8
+pillars & beams,wood beam - mrm,176,200,8,8
+pillars & beams,wood beam - lt,184,200,8,8
+pillars & beams,wood beam - mrt,192,200,8,8
+pillars & beams,wood beam | fl,200,200,8,8
+pillars & beams,wood beam | l,208,200,8,8
+pillars & beams,wood beam | fm,216,200,8,8
+pillars & beams,wood beam | m,224,200,8,8
+pillars & beams,wood beam | fr,232,200,8,8
+pillars & beams,wood beam | r,240,200,8,8
+pillars & beams,wood support+beam lt,248,200,8,8
+pillars & beams,wood support+beam mt,256,200,8,8
+pillars & beams,wood support+beam rt,264,200,8,8
+pillars & beams,wood support+beam lt shifted,272,200,8,8
+pillars & beams,wood support+beam mt shifted,280,200,8,8
+pillars & beams,wood support+beam rt shifted,288,200,8,8
+cave,cave wall tl,296,200,8,8
+cave,cave wall t1,304,200,8,8
+cave,cave wall t2,312,200,8,8
+cave,cave wall t3,0,208,8,8
+cave,cave wall tr,8,208,8,8
+cave,cave wall l1,16,208,8,8
+cave,cave wall l2,24,208,8,8
+cave,cave wall l3,32,208,8,8
+cave,cave wall r1,40,208,8,8
+cave,cave wall r2,48,208,8,8
+cave,cave wall r3,56,208,8,8
+cave,cave wall bl,64,208,8,8
+cave,cave wall b1,72,208,8,8
+cave,cave wall b2,80,208,8,8
+cave,cave wall b3,88,208,8,8
+cave,cave wall br,96,208,8,8
+cave,cave wall inner tl,104,208,8,8
+cave,cave wall inner tr,112,208,8,8
+cave,cave wall inner bl,120,208,8,8
+cave,cave wall inner br,128,208,8,8
+cave,cave halfhigh tl,136,208,8,8
+cave,cave halfhigh t1,144,208,8,8
+cave,cave halfhigh t2,152,208,8,8
+cave,cave halfhigh t3,160,208,8,8
+cave,cave halfhigh tr,168,208,8,8
+cave,cave halfhigh l1,176,208,8,8
+cave,cave halfhigh l2,184,208,8,8
+cave,cave halfhigh l3,192,208,8,8
+cave,cave halfhigh r1,200,208,8,8
+cave,cave halfhigh r2,208,208,8,8
+cave,cave halfhigh r3,216,208,8,8
+cave,cave halfhigh bl,224,208,8,8
+cave,cave halfhigh b1,232,208,8,8
+cave,cave halfhigh b2,240,208,8,8
+cave,cave halfhigh b3,248,208,8,8
+cave,cave halfhigh br,256,208,8,8
+cave,cave halfhigh inner tl,264,208,8,8
+cave,cave halfhigh inner tr,272,208,8,8
+cave,cave halfhigh inner bl,280,208,8,8
+cave,cave halfhigh inner br,288,208,8,8
+cave,cave halfhigh slope e0,296,208,8,8
+cave,cave halfhigh slope e1,304,208,8,8
+cave,cave halfhigh slope s0,312,208,8,8
+cave,cave halfhigh slope s1,0,216,8,8
+cave,cave halfhigh slope w0,8,216,8,8
+cave,cave halfhigh slope w1,16,216,8,8
+cave,cave halfhigh slope n0,24,216,8,8
+cave,cave halfhigh slope n1,32,216,8,8
+cave,cave halfhigh slope e,40,216,8,8
+cave,cave halfhigh slope s,48,216,8,8
+cave,cave halfhigh slope w,56,216,8,8
+cave,cave halfhigh slope n,64,216,8,8
+cave,stalacmite 1,72,216,8,8
+cave,stalacmite big 1,80,216,8,8
+cave,stalacmite 2a,88,216,8,8
+cave,stalacmite 2b,96,216,8,8
+cave,stalacmite 3a,104,216,8,8
+cave,stalacmite 3b,112,216,8,8
+cave,stalacmite pillar bottom,120,216,8,8
+cave,stalacmite pillar cut,128,216,8,8
+cave,stalacmite pillar middle,136,216,8,8
+cave,stalacmite pillar top into stalactite,144,216,8,8
+cave,stalactite 1,152,216,8,8
+cave,stalactite 2a,160,216,8,8
+cave,stalactite 2b,168,216,8,8
+cave,stalactite 2c,176,216,8,8
+cave,stalactite 3,184,216,8,8
+cave,small mushroom 1,192,216,8,8
+cave,small mushroom 2a,200,216,8,8
+cave,small mushroom 2b,208,216,8,8
+cave,small mushroom 3,216,216,8,8
+cave,big mushroom stem b1,224,216,8,8
+cave,big mushroom stem b2,232,216,8,8
+cave,big mushroom stem b3,240,216,8,8
+cave,big mushroom stem \|,248,216,8,8
+cave,big mushroom stem \|/,256,216,8,8
+cave,big mushroom stem |/,264,216,8,8
+cave,big mushroom stem elbow l,272,216,8,8
+cave,big mushroom stem elbow r,280,216,8,8
+cave,big mushroom stem m1,288,216,8,8
+cave,big mushroom stem m2,296,216,8,8
+cave,big mushroom stem m3,304,216,8,8
+cave,big mushroom cap1 lo,312,216,8,8
+cave,big mushroom cap1 hi,0,224,8,8
+cave,big mushroom cap2 lo,8,224,8,8
+cave,big mushroom cap2 hi,16,224,8,8
+cave,big mushroom cap3 lo,24,224,8,8
+cave,big mushroom cap3 hi,32,224,8,8
+cave,big mushroom cap4 lo,40,224,8,8
+cave,big mushroom cap4 hi,48,224,8,8
+cave,big mushroom cap5 lo,56,224,8,8
+cave,big mushroom cap5 hi,64,224,8,8
+cave,big mushroom cap6 lo,72,224,8,8
+cave,big mushroom cap6 hi,80,224,8,8
+cave,small crystals 1,88,224,8,8
+cave,small crystals 2,96,224,8,8
+cave,small crystals 3,104,224,8,8
+cave,big crystal b,112,224,8,8
+cave,big crystal t,120,224,8,8
+cave,big crystal l,128,224,8,8
+cave,big crystal r,136,224,8,8
+cave,big crystal |/,144,224,8,8
+cave,big crystal /.,152,224,8,8
+cave,big crystal \|/,160,224,8,8
+cave,big crystal \|,168,224,8,8
+cave,big crystal .\,176,224,8,8
+cave,ore wall e,184,224,8,8
+cave,ore wall s,192,224,8,8
+cave,ore wall w,200,224,8,8
+cave,ore wall n,208,224,8,8
+cave,ore boulder,216,224,8,8
+cave,ore boulder shining,224,224,8,8
+cave,ore boulder big l,232,224,8,8
+cave,ore boulder big r,240,224,8,8
+cave,ore boulder big tr,248,224,8,8
+cave,ore boulder big tr shining,256,224,8,8
+cave,cave entrance 1,264,224,8,8
+cave,cave entrance 2,272,224,8,8
+cave,cave entrance 3,280,224,8,8
+cave,spiderweb tl,288,224,8,8
+cave,spiderweb tr,296,224,8,8
+cave,spiderweb bl,304,224,8,8
+cave,spiderweb br,312,224,8,8
+camp,small tent t,0,232,8,8
+camp,small tent tl,8,232,8,8
+camp,small tent tm,16,232,8,8
+camp,small tent tr,24,232,8,8
+camp,small tent bl,32,232,8,8
+camp,small tent bm,40,232,8,8
+camp,small tent br,48,232,8,8
+camp,big tent vertical tl,56,232,8,8
+camp,big tent vertical tm,64,232,8,8
+camp,big tent vertical tr,72,232,8,8
+camp,big tent vertical l1,80,232,8,8
+camp,big tent vertical m1,88,232,8,8
+camp,big tent vertical r1,96,232,8,8
+camp,big tent vertical l2,104,232,8,8
+camp,big tent vertical m2,112,232,8,8
+camp,big tent vertical r2,120,232,8,8
+camp,big tent vertical bl,128,232,8,8
+camp,big tent vertical bm,136,232,8,8
+camp,big tent vertical br,144,232,8,8
+camp,big tent front b1,152,232,8,8
+camp,big tent front b2,160,232,8,8
+camp,big tent front entrance lower closed,168,232,8,8
+camp,big tent front entrance open,176,232,8,8
+camp,big tent front t1,184,232,8,8
+camp,big tent front t2,192,232,8,8
+camp,big tent front entrance upper closed,200,232,8,8
+camp,big tent front b1b,208,232,8,8
+camp,big tent front b2b,216,232,8,8
+camp,big tent front entrance lower closed2,224,232,8,8
+camp,big tent front entrance upper open,232,232,8,8
+camp,big tent front entrance lower open,240,232,8,8
+camp,rope and peg /,248,232,8,8
+camp,rope and peg \,256,232,8,8
+camp,rope and peg long v /,264,232,8,8
+camp,rope long v /,272,232,8,8
+camp,rope long v \,280,232,8,8
+camp,rope and peg long v \,288,232,8,8
+camp,rope and peg long h /,296,232,8,8
+camp,rope long h /,304,232,8,8
+camp,rope long h \,312,232,8,8
+camp,rope and peg long h \,0,240,8,8
+camp,cauldron wide,8,240,8,8
+camp,cauldron less wide,16,240,8,8
+camp,campfire l,24,240,8,8
+camp,campfire m off,32,240,8,8
+camp,campfire m on,40,240,8,8
+camp,campfire r,48,240,8,8
+camp,roast base l,56,240,8,8
+camp,roast top l,64,240,8,8
+camp,roast top m,72,240,8,8
+camp,roast top r,80,240,8,8
+camp,roast base r,88,240,8,8
+camp,cauldron support base l,96,240,8,8
+camp,cauldron support l,104,240,8,8
+camp,cauldron support |/,112,240,8,8
+camp,cauldron support l+,120,240,8,8
+camp,cauldron support base r,128,240,8,8
+camp,cauldron support r,136,240,8,8
+camp,cauldron support \|,144,240,8,8
+camp,cauldron support +r,152,240,8,8
+camp,big tent horizontal tl,160,240,8,8
+camp,big tent horizontal t1,168,240,8,8
+camp,big tent horizontal t2,176,240,8,8
+camp,big tent horizontal t3,184,240,8,8
+camp,big tent horizontal tr,192,240,8,8
+camp,big tent horizontal ml,200,240,8,8
+camp,big tent horizontal m1,208,240,8,8
+camp,big tent horizontal m2,216,240,8,8
+camp,big tent horizontal m3,224,240,8,8
+camp,big tent horizontal mr,232,240,8,8
+camp,big tent horizontal bl,240,240,8,8
+camp,big tent horizontal b1,248,240,8,8
+camp,big tent horizontal b2,256,240,8,8
+camp,big tent horizontal b3,264,240,8,8
+camp,big tent horizontal br,272,240,8,8
+crops,crops clean a,280,240,8,8
+crops,crops coarse a,288,240,8,8
+crops,crops clean b,296,240,8,8
+crops,crops coarse b,304,240,8,8
+crops,crops c1,312,240,8,8
+crops,crops c2,0,248,8,8
+crops,field plant1 v,8,248,8,8
+crops,field plant1 h,16,248,8,8
+crops,field plant2,24,248,8,8
+crops,field plant3,32,248,8,8
+crops,field plant4 clean,40,248,8,8
+crops,field plant4 coarse,48,248,8,8
+crops,furrow v,56,248,8,8
+crops,furrow h,64,248,8,8
+farm,farm fence tl,72,248,8,8
+farm,farm fence tb1,80,248,8,8
+farm,farm fence tb2,88,248,8,8
+farm,farm fence tb3,96,248,8,8
+farm,farm fence tr,104,248,8,8
+farm,farm fence l1,112,248,8,8
+farm,farm fence l2,120,248,8,8
+farm,farm fence l3,128,248,8,8
+farm,farm fence r1,136,248,8,8
+farm,farm fence r2,144,248,8,8
+farm,farm fence r3,152,248,8,8
+farm,farm fence bl,160,248,8,8
+farm,farm fence br,168,248,8,8
+farm,farm gate l closed,176,248,8,8
+farm,farm gate l open,184,248,8,8
+farm,farm gate r closed,192,248,8,8
+farm,farm gate r open,200,248,8,8
+farm,farm entrance tl,208,248,8,8
+farm,farm entrance t,216,248,8,8
+farm,farm entrance tr,224,248,8,8
+farm,big well tl,232,248,8,8
+farm,big well tr,240,248,8,8
+farm,big well l,248,248,8,8
+farm,big wall r,256,248,8,8
+farm,small well,264,248,8,8
+farm,bucket,272,248,8,8
+farm,trough small h,280,248,8,8
+farm,trough small v,288,248,8,8
+farm,trough long hl,296,248,8,8
+farm,trough long hr,304,248,8,8
+farm,trough long b,312,248,8,8
+farm,trough long t,0,256,8,8
+farm,mill X,8,256,8,8
+farm,mill +,16,256,8,8
+farm,mill wing t\,24,256,8,8
+farm,mill wing t|,32,256,8,8
+farm,mill wing t/,40,256,8,8
+farm,mill wing l-,48,256,8,8
+farm,mill wing -r,56,256,8,8
+farm,mill wing b/,64,256,8,8
+farm,mill wing b|,72,256,8,8
+farm,mill wing b\,80,256,8,8
+farm,mill stone,88,256,8,8
+farm,log house door closed e,96,256,8,8
+farm,log house door closed s,104,256,8,8
+farm,log house door closed w,112,256,8,8
+farm,log house door closed n,120,256,8,8
+farm,log house door open e,128,256,8,8
+farm,log house door open s,136,256,8,8
+farm,log house door open w,144,256,8,8
+farm,log house door open n,152,256,8,8
+farm,hay small,160,256,8,8
+farm,hay big l,168,256,8,8
+farm,hay big r,176,256,8,8
+farm,thatched roof tl,184,256,8,8
+farm,thatched roof t1,192,256,8,8
+farm,thatched roof t2,200,256,8,8
+farm,thatched roof t3,208,256,8,8
+farm,thatched roof tr,216,256,8,8
+farm,thatched roof l1,224,256,8,8
+farm,thatched roof l2,232,256,8,8
+farm,thatched roof l3,240,256,8,8
+farm,thatched roof r1,248,256,8,8
+farm,thatched roof r2,256,256,8,8
+farm,thatched roof r3,264,256,8,8
+farm,thatched roof bl,272,256,8,8
+farm,thatched roof b1,280,256,8,8
+farm,thatched roof b2,288,256,8,8
+farm,thatched roof b3,296,256,8,8
+farm,thatched roof br,304,256,8,8
+farm,log house inside tl,312,256,8,8
+farm,log house inside t1,0,264,8,8
+farm,log house inside t2,8,264,8,8
+farm,log house inside t3,16,264,8,8
+farm,log house inside t4,24,264,8,8
+farm,log house inside t window a,32,264,8,8
+farm,log house inside t window b,40,264,8,8
+farm,log house inside tr,48,264,8,8
+farm,log house inside l1,56,264,8,8
+farm,log house inside l2,64,264,8,8
+farm,log house inside l3,72,264,8,8
+farm,log house inside l4,80,264,8,8
+farm,log house inside l window a,88,264,8,8
+farm,log house inside l window b,96,264,8,8
+farm,log house inside r1,104,264,8,8
+farm,log house inside r2,112,264,8,8
+farm,log house inside r3,120,264,8,8
+farm,log house inside r4,128,264,8,8
+farm,log house inside r window a,136,264,8,8
+farm,log house inside r window b,144,264,8,8
+farm,log house inside/outside bl,152,264,8,8
+farm,log house inside/outside b1,160,264,8,8
+farm,log house inside/outside b2,168,264,8,8
+farm,log house inside/outside b3,176,264,8,8
+farm,log house inside/outside b4,184,264,8,8
+farm,log house inside/outside b window a,192,264,8,8
+farm,log house inside/outside b window b,200,264,8,8
+farm,log house inside/outside br,208,264,8,8
+farm,log house outside l,216,264,8,8
+farm,log house outside r,224,264,8,8
+farm,log house door outside closed,232,264,8,8
+farm,log house door outside open,240,264,8,8
+farm,sticks roof tl,248,264,8,8
+farm,sticks roof t1,256,264,8,8
+farm,sticks roof t2,264,264,8,8
+farm,sticks roof t3,272,264,8,8
+farm,sticks roof tr,280,264,8,8
+farm,sticks roof l1,288,264,8,8
+farm,sticks roof l2,296,264,8,8
+farm,sticks roof l3,304,264,8,8
+farm,sticks roof r1,312,264,8,8
+farm,sticks roof r2,0,272,8,8
+farm,sticks roof r3,8,272,8,8
+farm,sticks roof bl,16,272,8,8
+farm,sticks roof b1,24,272,8,8
+farm,sticks roof b2,32,272,8,8
+farm,sticks roof b3,40,272,8,8
+farm,sticks roof br,48,272,8,8
+farm,sack l,56,272,8,8
+farm,sack r,64,272,8,8
+farm,sack m,72,272,8,8
+farm,tall basket,80,272,8,8
+world map,map conifer,88,272,8,8
+world map,map broadleaf,96,272,8,8
+world map,map conifer woods,104,272,8,8
+world map,map broadleaf woods,112,272,8,8
+world map,map swamp,120,272,8,8
+world map,map hill,128,272,8,8
+world map,map hills,136,272,8,8
+world map,map mountain,144,272,8,8
+world map,map mountains,152,272,8,8
+world map,map camp,160,272,8,8
+world map,map village,168,272,8,8
+world map,map farm,176,272,8,8
+world map,map mill,184,272,8,8
+world map,map tower,192,272,8,8
+world map,map castle,200,272,8,8
+world map,map cave,208,272,8,8
+world map,map dungeon,216,272,8,8
+world map,map church,224,272,8,8
+world map,map temple,232,272,8,8
+world map,map poi lozenge,240,272,8,8
+world map,map poi square,248,272,8,8
+world map,map poi circle,256,272,8,8
+world map,map poi X,264,272,8,8
+world map,map poi lozenge small,272,272,8,8
+world map,map poi square small,280,272,8,8
+world map,map poi circle small,288,272,8,8
+world map,map poi X flat,296,272,8,8
+world map,map poi pole in circle,304,272,8,8
+world map,map harbor,312,272,8,8
+world map,map crossed swords,0,280,8,8
+world map,map compass rose N,8,280,8,8
+world map,map compass rose north,16,280,8,8
+world map,map compass rose west,24,280,8,8
+world map,map compass rose center,32,280,8,8
+world map,map compass rose east,40,280,8,8
+world map,map compass rose south,48,280,8,8
+world map,map line thin s.e,56,280,8,8
+world map,map line thin w.e,64,280,8,8
+world map,map line thin w.s,72,280,8,8
+world map,map line thin n.s,80,280,8,8
+world map,map line thin n.e,88,280,8,8
+world map,map line thin w.n,96,280,8,8
+world map,map line thin n.s.e,104,280,8,8
+world map,map line thin w.s.e,112,280,8,8
+world map,map line thin n.w.s,120,280,8,8
+world map,map line thin n.w.e,128,280,8,8
+world map,map line thin +,136,280,8,8
+world map,map line thin bridge |,144,280,8,8
+world map,map line thin bridge -,152,280,8,8
+world map,map line thin sw.ne,160,280,8,8
+world map,map line thin nw.se,168,280,8,8
+world map,map line thin nw.s,176,280,8,8
+world map,map line thin ne.s,184,280,8,8
+world map,map line thin nw.e,192,280,8,8
+world map,map line thin sw.e,200,280,8,8
+world map,map line thin sw.n,208,280,8,8
+world map,map line thin se.n,216,280,8,8
+world map,map line thin w.ne,224,280,8,8
+world map,map line thin w.se,232,280,8,8
+world map,map line thin sw.ne.e,240,280,8,8
+world map,map line thin sw.ne.se,248,280,8,8
+world map,map line thin sw.ne.s,256,280,8,8
+world map,map line thin sw.ne.w,264,280,8,8
+world map,map line thin sw.ne.nw,272,280,8,8
+world map,map line thin sw.ne.n,280,280,8,8
+world map,map line thin nw.se.e,288,280,8,8
+world map,map line thin nw.se.s,296,280,8,8
+world map,map line thin nw.se.sw,304,280,8,8
+world map,map line thin nw.se.w,312,280,8,8
+world map,map line thin nw.se.n,0,288,8,8
+world map,map line thin nw.se.ne,8,288,8,8
+world map,map line thin X,16,288,8,8
+world map,map line thick s.e,24,288,8,8
+world map,map line thick w.e,32,288,8,8
+world map,map line thick w.s,40,288,8,8
+world map,map line thick n.s,48,288,8,8
+world map,map line thick n.e,56,288,8,8
+world map,map line thick w.n,64,288,8,8
+world map,map line thick n.s.e,72,288,8,8
+world map,map line thick w.s.e,80,288,8,8
+world map,map line thick n.w.s,88,288,8,8
+world map,map line thick n.w.e,96,288,8,8
+world map,map line thick +,104,288,8,8
+world map,map line thick bridge |,112,288,8,8
+world map,map line thick bridge -,120,288,8,8
+world map,map line thick sw.ne,128,288,8,8
+world map,map line thick nw.se,136,288,8,8
+world map,map line thick nw.s,144,288,8,8
+world map,map line thick ne.s,152,288,8,8
+world map,map line thick nw.e,160,288,8,8
+world map,map line thick sw.e,168,288,8,8
+world map,map line thick sw.n,176,288,8,8
+world map,map line thick se.n,184,288,8,8
+world map,map line thick w.ne,192,288,8,8
+world map,map line thick w.se,200,288,8,8
+world map,map line thick sw.ne.e,208,288,8,8
+world map,map line thick sw.ne.se,216,288,8,8
+world map,map line thick sw.ne.s,224,288,8,8
+world map,map line thick sw.ne.w,232,288,8,8
+world map,map line thick sw.ne.nw,240,288,8,8
+world map,map line thick sw.ne.n,248,288,8,8
+world map,map line thick nw.se.e,256,288,8,8
+world map,map line thick nw.se.s,264,288,8,8
+world map,map line thick nw.se.sw,272,288,8,8
+world map,map line thick nw.se.w,280,288,8,8
+world map,map line thick nw.se.n,288,288,8,8
+world map,map line thick nw.se.ne,296,288,8,8
+world map,map line thick X,304,288,8,8
+world map,map line curly h1,312,288,8,8
+world map,map line curly h2,0,296,8,8
+world map,map line curly v1,8,296,8,8
+world map,map line curly v2,16,296,8,8
+world map,map line curly /1,24,296,8,8
+world map,map line curly /2,32,296,8,8
+world map,map line curly /3,40,296,8,8
+world map,map line curly \1,48,296,8,8
+world map,map line curly \2,56,296,8,8
+world map,map line curly \3,64,296,8,8
+world map,map tl1,72,296,8,8
+world map,map tl2,80,296,8,8
+world map,map tl3,88,296,8,8
+world map,map tl4,96,296,8,8
+world map,map tl5,104,296,8,8
+world map,map t1,112,296,8,8
+world map,map t2,120,296,8,8
+world map,map t3,128,296,8,8
+world map,map t4,136,296,8,8
+world map,map t5,144,296,8,8
+world map,map tr1,152,296,8,8
+world map,map tr2,160,296,8,8
+world map,map tr3,168,296,8,8
+world map,map tr4,176,296,8,8
+world map,map tr5,184,296,8,8
+world map,map l1,192,296,8,8
+world map,map l2,200,296,8,8
+world map,map l3,208,296,8,8
+world map,map l4,216,296,8,8
+world map,map l5,224,296,8,8
+world map,map r1,232,296,8,8
+world map,map r2,240,296,8,8
+world map,map r3,248,296,8,8
+world map,map r4,256,296,8,8
+world map,map r5,264,296,8,8
+world map,map bl1,272,296,8,8
+world map,map bl2,280,296,8,8
+world map,map bl3,288,296,8,8
+world map,map bl4,296,296,8,8
+world map,map bl5,304,296,8,8
+world map,map b1,312,296,8,8
+world map,map b2,0,304,8,8
+world map,map b3,8,304,8,8
+world map,map b4,16,304,8,8
+world map,map b5,24,304,8,8
+world map,map br1,32,304,8,8
+world map,map br2,40,304,8,8
+world map,map br3,48,304,8,8
+world map,map br4,56,304,8,8
+world map,map br5,64,304,8,8
+world map,map h1,72,304,8,8
+world map,map h2,80,304,8,8
+world map,map v1,88,304,8,8
+world map,map v2,96,304,8,8
+world map,map hr1,104,304,8,8
+world map,map hr2,112,304,8,8
+world map,map hl1,120,304,8,8
+world map,map hl2,128,304,8,8
+world map,map vt1,136,304,8,8
+world map,map vt2,144,304,8,8
+world map,map vb1,152,304,8,8
+world map,map vb2,160,304,8,8
+world map,map /.1,168,304,8,8
+world map,map /.2,176,304,8,8
+world map,map 1.\,184,304,8,8
+world map,map 2.\,192,304,8,8
+world map,map \.1,200,304,8,8
+world map,map \.2,208,304,8,8
+world map,map 1./,216,304,8,8
+world map,map 2./,224,304,8,8
+roads & rivers,stone tiling diagonally,232,304,8,8
+roads & rivers,stone tiling clean,240,304,8,8
+roads & rivers,stone tiling course,248,304,8,8
+roads & rivers,stone tiling crack1,256,304,8,8
+roads & rivers,stone tiling crack2,264,304,8,8
+roads & rivers,curvy patch tl,272,304,8,8
+roads & rivers,curvy patch t1,280,304,8,8
+roads & rivers,curvy patch t2,288,304,8,8
+roads & rivers,curvy patch t3,296,304,8,8
+roads & rivers,curvy patch tr,304,304,8,8
+roads & rivers,curvy patch l1,312,304,8,8
+roads & rivers,curvy patch l2,0,312,8,8
+roads & rivers,curvy patch l3,8,312,8,8
+roads & rivers,curvy patch r1,16,312,8,8
+roads & rivers,curvy patch r2,24,312,8,8
+roads & rivers,curvy patch r3,32,312,8,8
+roads & rivers,curvy patch bl,40,312,8,8
+roads & rivers,curvy patch b1,48,312,8,8
+roads & rivers,curvy patch b2,56,312,8,8
+roads & rivers,curvy patch b3,64,312,8,8
+roads & rivers,curvy patch br,72,312,8,8
+roads & rivers,reedmace 2,80,312,8,8
+roads & rivers,reedmace 1,88,312,8,8
+roads & rivers,double waves hb,96,312,8,8
+roads & rivers,double waves hm,104,312,8,8
+roads & rivers,double waves ht,112,312,8,8
+roads & rivers,double waves vl,120,312,8,8
+roads & rivers,double waves vm,128,312,8,8
+roads & rivers,double waves vr,136,312,8,8
+roads & rivers,waves h1,144,312,8,8
+roads & rivers,waves h2,152,312,8,8
+roads & rivers,waves h3,160,312,8,8
+roads & rivers,waves v1,168,312,8,8
+roads & rivers,waves v2,176,312,8,8
+roads & rivers,waves v3,184,312,8,8
+roads & rivers,fringe tl,192,312,8,8
+roads & rivers,fringe t1,200,312,8,8
+roads & rivers,fringe t2,208,312,8,8
+roads & rivers,fringe t3,216,312,8,8
+roads & rivers,fringe tr,224,312,8,8
+roads & rivers,fringe l1,232,312,8,8
+roads & rivers,fringe l2,240,312,8,8
+roads & rivers,fringe l3,248,312,8,8
+roads & rivers,fringe r1,256,312,8,8
+roads & rivers,fringe r2,264,312,8,8
+roads & rivers,fringe r3,272,312,8,8
+roads & rivers,fringe bl,280,312,8,8
+roads & rivers,fringe b1,288,312,8,8
+roads & rivers,fringe b2,296,312,8,8
+roads & rivers,fringe b3,304,312,8,8
+roads & rivers,fringe br,312,312,8,8
