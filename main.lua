@@ -3,24 +3,27 @@ require ("maps")
 function love.load()
     
   love.window.setMode(480, 480)
+  mapWidth, mapHeight = 460,460
+  maxLevel = 2
 
   --characters
   hero = {
-    x = 200,
-    y = 200,
+    x = 220,
+    y = 220,
     shield = false,
     sword = false,
     helmet = false
   }
-  
+
+  HeroTiles = love.graphics.newImage("/res/Vexed/hero_end.png")
+  local heroTilesW, heroTilesH = HeroTiles:getWidth(), HeroTiles:getHeight()
+
   --maps
   maps = {town,ruins}
   lvl = 1
   Tileset = love.graphics.newImage("/res/Vexed/Full.png")
-  HeroTiles = love.graphics.newImage("/res/Vexed/hero_end.png")
-  tileW, tileH = 20,20
+  local tileW, tileH = 20,20
   local tilesetW, tilesetH = Tileset:getWidth(), Tileset:getHeight()
-  local heroTilesW, heroTilesH = HeroTiles:getWidth(), HeroTiles:getHeight()
   
   --quads
   --tiles quads
@@ -51,10 +54,20 @@ end
 function love.update()
   playerInput()
 
+  --check level before jump
+  if (hero.y > 460) then
+    if lvl < 2 then lvl = lvl + 1 end
+    hero.y = 0
+  elseif (hero.y < 0) then
+    if lvl >= 2 then lvl = lvl - 1 end
+    hero.y = 460
+  end
+
 end
 
 
 function drawMap()
+  local tileW, tileH = 20,20
     for i, row in ipairs(maps[lvl]) do
       for j, tile in ipairs(row) do
         if tile ~=0   then
@@ -74,15 +87,14 @@ function drawMap()
       elseif key == "d" then
           hero.x = hero.x + 20
       elseif key == "w" then
-          hero.y = hero.y - 20
+        if (lvl == 1 and hero.y == 0) then
+          hero.y = hero.y - 0
+        else hero.y = hero.y - 20
+        end
       elseif key == "s" then
-          hero.y = hero.y + 20
-      end
-
-      if key == "b" then
-        if test < 30 then
-          test = test + 1
-        else test = 1
+        if (lvl == maxLevel and hero.y == mapHeight) then
+          hero.y = hero.y + 0
+        else hero.y = hero.y + 20
         end
       end
       
@@ -90,7 +102,7 @@ function drawMap()
         love.event.quit()
      end
 
-      --equipment test
+      --[[equipment test
 
       if key == "1" then
         if hero.shield == true then
@@ -107,7 +119,7 @@ function drawMap()
           hero.helmet = false
           else hero.helmet = true
         end
-      end
+      end]]
 
     end
   end
